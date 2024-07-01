@@ -42,9 +42,9 @@ ___
 
 ## Activity Done: 
 ### 1) Conducted a security audit
-###  Scenario and Supporting materials
+- ###  Scenario and Supporting materials
 ## <a href="https://docs.google.com/document/d/1nGmFADD9ivxm6LwvVEVWji9PvLEsLjbZqi6p3-MrdoY/edit?usp=sharing"><img src="https://img.shields.io/badge/-Scenario of the Activity-0072b1?&logo=googledrive" /></a>    <a href="https://docs.google.com/document/d/1XBkMcMKLP8EWu8T24wtp3R9kTNV-jTV6yUA8XzI4iiY/edit?usp=sharing"><img src="https://img.shields.io/badge/-Assessment Test Report-0072b1?&logo=googledrive" /></a>
-### Security Audit Result and Recommendations
+- ### Security Audit Result and Recommendations
 ## <a href="https://docs.google.com/document/d/1iQVcwg8bcHU79E6fV0_qvN7Kl5-bR2syk2bYDs01MBg/edit?usp=sharing"><img src="https://img.shields.io/badge/-Scenario of the Activity-0072b1?&logo=googledrive" /></a>
 
 
