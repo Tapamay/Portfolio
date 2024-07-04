@@ -49,7 +49,8 @@ ___
 
 ### 2) Analyzing network layer communication
 - ### Scenario and tcpdump Log Information
-<center> <a href="https://docs.google.com/document/d/1RH8H1e-r69CX6EqqYueBz864TGBY-rY0qhyZ8Dw-lJ0/edit?usp=sharing"><img src="https://img.shields.io/badge/-tcpdump Log Data Information-0072b1?&logo=googledrive"/></a> </center>
+## <a href="https://docs.google.com/document/d/1RH8H1e-r69CX6EqqYueBz864TGBY-rY0qhyZ8Dw-lJ0/edit?usp=sharing"><img src="https://img.shields.io/badge/-tcpdump Log Data Information-0072b1?&logo=googledrive"/></a> 
 
 #### :arrow_right: Cybersecurity Incident Report: Network Traffic Analysis
- <a href="https://docs.google.com/document/d/1CT4W1uPphRIrKISQmqU7Wtprf7DJ5poFFcAQ_y6_eIg/edit?usp=sharing&resourcekey=0-QmhZyWMYloKckVpLHcr_xQ"><img src="https://img.shields.io/badge/-Analysis Report-0072b1?&logo=googledrive" /></a>
+ ## <a href="https://docs.google.com/document/d/1CT4W1uPphRIrKISQmqU7Wtprf7DJ5poFFcAQ_y6_eIg/edit?usp=sharing&resourcekey=0-QmhZyWMYloKckVpLHcr_xQ"><img src="https://img.shields.io/badge/-Cybersecurity Incident Report-0072b1?&logo=googledrive" /></a>      <a href="https://docs.google.com/document/d/1rIdpO9FeQA_dvfUmhfiy_MlAyunwyB3p3gZlgO7Dfoc/edit?usp=sharing"><img src="https://img.shields.io/badge/-The Exemplar Explained-0072b1?&logo=googledrive" /></a>
+ 
